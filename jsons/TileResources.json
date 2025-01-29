@@ -932,6 +932,11 @@
         "uniques": ["Cannot be traded"]
     },
     {
+        "name": "huita",
+        "resourceType": "Strategic",
+        "uniques": ["stockpiled"]
+    },
+    {
         "name": "Factories", 
         "resourceType": "Strategic",
         "uniques": ["Not shown on world screen","Cannot be traded"]
